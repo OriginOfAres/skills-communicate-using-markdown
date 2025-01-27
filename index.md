@@ -2,4 +2,4 @@
 
 ## Let's code
 
-![Image of Universtocat] (https://octodex.github.com/images/universetocat.png)
+![Image of Universtocat](https://octodex.github.com/images/universetocat.png)
