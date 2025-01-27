@@ -3,3 +3,7 @@
 ## Let's code
 
 ![Image of Universtocat](https://octodex.github.com/images/universetocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
